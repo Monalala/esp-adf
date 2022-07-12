@@ -18,7 +18,7 @@ The ESP32-S3-Korvo-2 is a multimedia development board based on the ESP32-S3 chi
 This board mainly consists of the following parts:
 
 - Main board: ESP32-S3-Korvo-2
-- LCD board: :doc:`ESP32-S3-Korvo-2-LCD <user-guide-esp32-s3-korvo-2-lcd>`
+- LCD extension board: :doc:`ESP32-S3-Korvo-2-LCD <user-guide-esp32-s3-korvo-2-lcd>`
 - Camera
 
 This document is mostly dedicated to the main board. For detailed information on other parts, click the links above.
