@@ -7,25 +7,25 @@ When designing a project with ability to process audio signals or audio data we 
 
 **Input:**
 
-* **Analog signal input** to connect e.g. a microphone
-* **Storage media**, e.g. microSD card with audio files to read
-* **Wi-Fi interface** to obtain an audio data stream from the internet
-* **Bluetooth interface** to obtain an audio data stream from e.g. a Bluetooth headset
-* **I2S interface** to obtain audio data stream from a codec chip
-* **Ethernet interface** to obtain an audio data stream from the internet
-* An internal **chip's flash memory** with some audio samples to play
-* **User Interface** e.g. buttons or some other means to provide user input
+* **Analog signal input** is to connect equipment. (e.g. a microphone)
+* **Storage media** is to read audio files. ( e.g. microSD card)
+* **Wi-Fi interface** is to obtain an audio data stream from the internet.
+* **Bluetooth interface** is to obtain an audio data stream from wquipment. (e.g. a Bluetooth headset)
+* **I2S interface** is to obtain audio data stream from a codec chip.
+* **Ethernet interface** is to obtain an audio data stream from the internet.
+* An **internal chip's flash memory** is to play some audio samples.
+* **User Interface** is to provide user input. (e.g. buttons or some other means)
 
 **Output:**
 
-* **Analog signal output** to connect headphones or speakers
-* **Storage media**, e.g. microSD card to write some audio files, e.g. with recording
-* **Wi-Fi interface** to send out an audio data stream to the internet
-* **Bluetooth interface** to stream audio data to e.g. a Bluetooth headset
-* **I2S interface** to stream some data to a codec chip
-* **Ethernet interface** to stream an audio data stream to the internet
-* An internal **chip's flash memory** to store some audio recording
-* **User Interface** e.g. a display, LEDs or some means of `haptic <https://en.wikipedia.org/wiki/Haptic_technology>`_ feedback
+* **Analog signal output** is to connect headphones or speakers.
+* **Storage media** (e.g. microSD card) is to write some audio files through recording.
+* **Wi-Fi interface** is to send out an audio data stream to the internet.
+* **Bluetooth interface** is to stream audio data to equipment (e.g. a Bluetooth headset).
+* **I2S interface** is to stream some data to a codec chip.
+* **Ethernet interface** is to stream an audio data stream to the internet.
+* An **internal chip's flash memory** is to store some audio recording.
+* **User Interface** is about a display, LEDs or some means of `haptic <https://en.wikipedia.org/wiki/Haptic_technology>`_ feedback
 
 **Main Processing Unit:**
 
