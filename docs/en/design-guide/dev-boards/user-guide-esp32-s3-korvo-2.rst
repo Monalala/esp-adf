@@ -18,14 +18,14 @@ The ESP32-S3-Korvo-2 is a multimedia development board based on the ESP32-S3 chi
 This board mainly consists of the following parts:
 
 - Main board: ESP32-S3-Korvo-2
-- LCD board: :doc:`ESP32-S3-Korvo-2-LCD <user-guide-esp32-s3-korvo-2-lcd>`
+- LCD extension board: :doc:`ESP32-S3-Korvo-2-LCD <user-guide-esp32-s3-korvo-2-lcd>`
 - Camera
 
 This document is mostly dedicated to the main board. For detailed information on other parts, click the links above.
 
 The document consists of the following sections:
 
-- `Getting started`_: Overview of the board and hardware/software setup instructions to get started.
+- `Getting Started`_: Overview of the board and hardware/software setup instructions to get started.
 - `Hardware Reference`_: More detailed information about the board's hardware.
 - `Hardware Revision Details`_: Hardware revision history, known issues, and links to user guides for previous versions (if any) of the board.
 - `Related Documents`_: Links to related documentation.
@@ -56,7 +56,7 @@ The key components of the board are described in a clockwise direction.
    * - Key Component
      - Description
    * - ESP32-S3-WROOM-1 Module
-     - The ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU module that is built around the ESP32-S3 series of SoCs. On top of a rich set of peripherals, the acceleration for neural network computing and signal processing workloads provided by the SoC make the modules an ideal choice for a wide variety of application scenarios related to AI and Artificial Intelligence of Things (AIoT), such as wake word detection, speech commands recognition, face detection and recognition, smart home, smart appliances, smart control panel, smart speaker, etc.
+     - The ESP32-S3-WROOM-1 is a low-power, generic Wi-Fi + Bluetooth LE MCU module that is built around the ESP32-S3 series of SoCs. On top of a rich set of peripherals, the acceleration for neural network computing and signal processing workloads provided by the SoC make the modules an ideal choice for a wide variety of application scenarios related to AI and Artificial Intelligence of Things (AIoT), such as wake word detection, speech commands recognition, face detection and recognition, smart home, smart appliances, smart control panel, smart speaker, etc.
    * - Left Microphone
      - Onboard microphone connected to ADC.
    * - Audio ADC Chip
